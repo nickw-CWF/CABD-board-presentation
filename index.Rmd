@@ -401,7 +401,6 @@ and lakes
 - Development and data compilation are most expensive phases
 - Long-term maintenance and updating = major challenge for databases
   + But, lower annual costs
-- Long-term maintenance mode will require lower costs - challenge with db like this
 - Future funding options:
   + Perpetual fundraising?
   + CWF endowment?
